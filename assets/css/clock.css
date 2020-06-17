@@ -5,12 +5,21 @@
     min-height: 100vh;
     background: #091921;
 } */
+
+@media (max-width: 1050px) {
+    .clock {
+        position: relative !important; 
+        left: 0 !important;
+        right: 0;
+        margin: auto;
+    }
+}
 .clock {
     position: fixed;
-    top: 15px;
     left: 15px;
-    width: 150px;
-    height: 150px;
+    top: 15px;
+    width: 130px;
+    height: 130px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -47,7 +56,7 @@
 }
 .clock .sec, .sc {
     width: 230px;
-    height: 115px;
+    height: 110px;
 }
 .hr, .mn, .sc {
     display: flex;
@@ -77,7 +86,7 @@
     content: '';
     position: absolute;
     width: 2px;
-    height: 74px;
+    height: 70px;
     background: #ff105e;
     z-index: 12;
     border-radius: 6px 6px 0 0;
