@@ -17,8 +17,11 @@ pill("#page", {
       removeClass(indicator, "is-loading");
       indicator.style.display = "none";
     }, 500);
+    setCurrentYear()
   }
 });
+
+setCurrentYear()
 
 function addClass(target, className) {
   target.className = target.className
@@ -34,4 +37,8 @@ function removeClass(indicator, className) {
     .split(/\s+/)
     .filter(item => item !== className)
     .join(" ");
+}
+
+function setCurrentYear() {
+  document.querySelector('#footer_year').innerHTML = new Date().getFullYear()
 }
