@@ -121,9 +121,7 @@ h3#title span:nth-child(3) {
 	}
 }
 
-
 .tooltip {
-	border-bottom: 1px dotted #000000; color: #000000; outline: none;
 	cursor: pointer; text-decoration: none;
 	position: relative;
 }
@@ -156,7 +154,18 @@ h3#title span:nth-child(3) {
 .info { background: #9FDAEE; border: 1px solid #2BB0D7;	}
 .warning { background: #FFFFAA; border: 1px solid #FFAD33; }
 
+.title {
+	border-radius: 15px;
+}
 
+.contentDiv {
+	display: grid;
+	grid-gap: 1.4rem;
+	line-height: 1.5rem;
+	padding: 20px 20px;
+	border-radius: 15px;
+	box-shadow: -5px -5px 10px #060809, 5px 5px 10px #1a2025;
+}
 /* footer */
 
 footer {

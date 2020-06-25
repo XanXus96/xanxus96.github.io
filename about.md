@@ -10,6 +10,6 @@ I am a very passionate software engineer, throughout my journey i have used vari
 I had got this idea of starting a blog to share with you fellas anything that may help you in anyway it can do, i am not perfect so feel free please to ping me if you find any trouble or errors in my blog.
 Cheers and let it sink. 
 
-[Instagram](http://instagram.com/marouane.kafou){:target="_blank"}
-[Linkedin](http://linkedin.com/in/marouane-kafou-92b623141){:target="_blank"}
+[Instagram](http://instagram.com/marouane.kafou){:target="_blank"}  
+[Linkedin](http://linkedin.com/in/marouane-kafou-92b623141){:target="_blank"}  
 [Github](http://github.com/xanxus96){:target="_blank"}
