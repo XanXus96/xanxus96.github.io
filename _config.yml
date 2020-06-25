@@ -1,7 +1,7 @@
 title: ["it", "may", "help"]
 markdown: kramdown
 url: ""
-baseurl: "https://xanxus96.github.io"
+baseurl: ""
 
 # for atom feed
 author:
