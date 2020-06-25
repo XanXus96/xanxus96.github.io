@@ -1,7 +1,7 @@
 ---
 title: Marouane KAFOU
 layout: about
-profile_pic: "assets/images/me.jpg"
+profile_pic: "/assets/images/me.jpg"
 profile_pic_alt: ""
 short_bio: Hi there this is Marouane.
 ---
