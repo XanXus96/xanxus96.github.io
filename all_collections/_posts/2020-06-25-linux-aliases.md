@@ -11,6 +11,7 @@ Every command line user can agree that however how great the use of terminal can
 
 **Aliases** can be temporary or permanent, this post will walk you through : how to list the **available aliases**, how to create **temporary and permanent aliases**.
 
+
 # HOW TO LIST THE AVAILABLE ALIASES
 
 Listing your aliases is as easy as typing the command `alias` on your command line.
@@ -34,6 +35,7 @@ Is equivalent to :
 $ ls --color-auto
 ```
 
+
 # HOW TO CREATE TEMPORARY ALIASES
 
 You can create temporary aliases _(not preserved between terminal sessions)_ simply by running the command `alias` in the following syntax `alias {name of the alias}='{the actual command the alias will execute}'`.
@@ -53,6 +55,7 @@ $ unalias home
 ```
 
 However this alias will be available only on your current terminal ssession, if you are willing to use this alias everywhere, you need to create a permanent one.
+
 
 # HOW TO CREATE PERMANENT ALIASES
 

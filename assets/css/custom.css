@@ -43,9 +43,6 @@ main {
 	margin-top: 3rem;
 	margin-left: 20%;
 	margin-right: 20%;
-	display: grid;
-	grid-gap: 1.4rem;
-	line-height: 1.5rem;
 }
 
 .content a {
@@ -159,9 +156,6 @@ h3#title span:nth-child(3) {
 }
 
 .contentDiv {
-	display: grid;
-	grid-gap: 1.4rem;
-	line-height: 1.5rem;
 	padding: 20px 20px;
 	border-radius: 15px;
 	box-shadow: -5px -5px 10px #060809, 5px 5px 10px #1a2025;
