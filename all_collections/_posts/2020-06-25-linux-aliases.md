@@ -9,7 +9,7 @@ hover: "I'm glad you're alive, happy reading"
 
 Every command line user can agree that however how great the use of terminal can be, it can quickly get exhausting having to write long commands again and again, amd maybe you don't want to remember all those commands word by word at all, this is where **aliases** came in, **aliases** can be a very handful tool to speed up your work and make it less exhausting, thus, improving your productivity.
 
-**Aliases** can be temporal or permanent, this post will walk you through : how to list the **available aliases**, how to create **temporal and permanent aliases**.
+**Aliases** can be temporary or permanent, this post will walk you through : how to list the **available aliases**, how to create **temporary and permanent aliases**.
 
 # HOW TO LIST THE AVAILABLE ALIASES
 
