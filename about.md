@@ -3,7 +3,7 @@ title: Marouane KAFOU
 layout: about
 profile_pic: "/assets/images/me.jpg"
 profile_pic_alt: ""
-short_bio: Hi there this is Marouane.
+short_bio: Hi there, this is Marouane.
 ---
 
 I am a very passionate software engineer, throughout my journey i have used various programming languages in different fields: java for desktop, web and mobile; c; c++; ruby; python.. for the time being my work focuses mainly on web development, using php and its framework, javascript with vuejs and Nuxt.js in particular besides using nodejs with express, mongoDB and graphQL.
