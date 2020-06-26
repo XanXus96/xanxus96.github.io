@@ -56,6 +56,7 @@ $ unalias home
 
 However this alias will be available only on your current terminal ssession, if you are willing to use this alias everywhere, you need to create a permanent one.
 
+---
 
 # HOW TO CREATE PERMANENT ALIASES
 
@@ -126,7 +127,7 @@ alias gb='git branch'
 alias gl='git log'
 alias gr='git revert'
 alias pull='git pull origin'
-alias pushup='git push origin'
+alias push='git push origin'
 alias pushup='git push origin --set-upstream'
 
 # make
