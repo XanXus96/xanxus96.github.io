@@ -56,8 +56,6 @@ $ unalias home
 
 However this alias will be available only on your current terminal ssession, if you are willing to use this alias everywhere, you need to create a permanent one.
 
----
-
 # HOW TO CREATE PERMANENT ALIASES
 
 To create permanent aliases you must save them on your shell configuration profile file, why there ? It's because this file is executed on every new terminal session's launch, It is as if you run the command to create a temporary alias on every new terminal session.
