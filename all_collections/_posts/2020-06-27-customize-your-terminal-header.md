@@ -94,7 +94,7 @@ $ figlet -f slant "it may help" | lolcat
 
 ![figlet -f slant "it may help" \| lolcat](../../../../../assets/images/posts/customize-your-terminal-header-5.png)
 
-# CUSTOMIZING Your TERMINAL HEADER
+# CUSTOMIZING YOUR TERMINAL HEADER
 
 To customize our terminal header we will add some **figlet**+**lolcat** commands on our shell configuration profile file, why there ? It's because this file is executed on every new terminal session's launch, It is as if we run those commands on every new terminal session.
 
