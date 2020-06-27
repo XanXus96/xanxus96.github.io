@@ -121,8 +121,11 @@ code {
 	border-radius: 2px;
 }
 
-
-
+table {
+	table-layout: fixed;
+    width: 100%;
+    word-wrap: break-word;
+}
 
 
 
