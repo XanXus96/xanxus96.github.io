@@ -160,6 +160,17 @@ h3#title span:nth-child(3) {
 	border-radius: 15px;
 	box-shadow: -5px -5px 10px #060809, 5px 5px 10px #1a2025;
 }
+
+.contentDiv img {
+	border: black 1px dashed;
+    border-radius: 10px;
+}
+
+a.postAnchor {
+	display: block;
+	margin: 1em auto;
+}
+
 /* footer */
 
 footer {
